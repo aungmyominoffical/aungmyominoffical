@@ -36,7 +36,7 @@
 <div style="display: flex; align-items: center;">
   <a href="https://play.google.com/store/apps/details?id=com.vray.qito" style="display: flex; align-items: center;">
     <img src="https://play-lh.googleusercontent.com/8Hm-TfHyg8gnsZg4Vr3RuzeJsinQeSj2AI9PZvOJotn63Udn6-kByg8Tncg22GYxnE4" width="100" height="100"/>
-    <span style="margin-left: 15px; font-size: 18px; font-weight: bold;">Qito - QR Code Scanner</span>
+    <span style="margin-left: 15px; font-size: 18px; font-weight: bold;">Qito VPN</span>
   </a>
 </div>
 
